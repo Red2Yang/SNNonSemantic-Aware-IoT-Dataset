@@ -149,7 +149,7 @@ python test.py --model best_agri_snn.pth --show 10
   author = {Red2Yang},
   title = {Dual-Branch Spiking Neural Network for Agricultural UAV Decision-Making},
   year = {2025},
-  howpublished = {\url{[https://github.com/yourrepo](https://github.com/Red2Yang/SNNonSemantic-Aware-IoT-Dataset)}}
+  howpublished = {\url{[SNNonSemantic-Aware-IoT-Dataset](https://github.com/Red2Yang/SNNonSemantic-Aware-IoT-Dataset)}}
 }
 ```
 
